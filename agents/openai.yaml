@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fashion Editorial Poster Generator"
+    short_description: "Create fashion posters and fragment editorial series"
+    default_prompt: "Use $fashion-magazine-poster-generator to turn a reference image or scattered visual materials into an original fashion poster, lookbook, contact sheet, or social publishing package with one clear editorial idea."
